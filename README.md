@@ -1,4 +1,6 @@
 ### Hi there 👋
+- Android Developer of [ZOOC](https://www.fitapat.com/)
+- making [fitapat](https://play.google.com/store/apps/details?id=org.sopt.zooczoocbbangbbang&hl=en-KR)
 
 <!--
 **briandr97/briandr97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
