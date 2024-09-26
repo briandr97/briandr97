@@ -1,6 +1,12 @@
 ### Hi there 👋
+_2023.09 ~ 2024.08_
 - Android Developer of [ZOOC](https://www.fitapat.com/)
-- making [fitapat](https://play.google.com/store/apps/details?id=org.sopt.zooczoocbbangbbang&hl=en-KR) application
+
+_2023.02 ~ 2024.11_
+- 우아한테크코스 5기 수료
+
+_2021.09 ~ 2023.01_
+- IT 벤처 창업 동아리 SOPT
 
 <!--
 **briandr97/briandr97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
