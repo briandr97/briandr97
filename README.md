@@ -1,6 +1,6 @@
 ### Hi there 👋
 _2023.09 ~ 2024.08_
-- Android Developer of [ZOOC](https://www.fitapat.com/)
+- Android Developer of [쭉](https://www.fitapat.com/)
 
 _2023.02 ~ 2024.11_
 - 우아한테크코스 5기 수료
