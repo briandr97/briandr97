@@ -1,6 +1,6 @@
 ### Hi there 👋
 _2025.07 ~ NOW_
-- Samsung Electronics MX division
+- SW Engineer of Samsung Electronics MX division
 
 _2025.01 ~ 2025.06_
 - SSAFY 13기 Java Backend
