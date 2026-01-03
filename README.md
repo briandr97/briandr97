@@ -1,6 +1,9 @@
 ### Hi there 👋
 _2025.07 ~ NOW_
 - Samsung Electronics
+
+_2025.01 ~ 2025.06_
+- SSAFY 13기 Java Backend
   
 _2023.09 ~ 2024.08_
 - Android Developer of [(주)쭉](https://www.fitapat.com/)
