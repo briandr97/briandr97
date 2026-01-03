@@ -1,5 +1,5 @@
 ### Hi there 👋
-_2025.07 ~ 
+_2025.07 ~ NOW_
 - Samsung Electronics
   
 _2023.09 ~ 2024.08_
