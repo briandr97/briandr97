@@ -1,4 +1,7 @@
 ### Hi there 👋
+_2025.07 ~ 
+- Samsung Electronics
+  
 _2023.09 ~ 2024.08_
 - Android Developer of [(주)쭉](https://www.fitapat.com/)
 
@@ -7,9 +10,6 @@ _2023.02 ~ 2023.11_
 
 _2021.09 ~ 2023.01_
 - IT 벤처 창업 동아리 SOPT
-
-_2025.07 ~ 
-- Samsung Electronics
 
 <!--
 **briandr97/briandr97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
