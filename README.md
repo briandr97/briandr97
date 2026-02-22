@@ -6,7 +6,7 @@ _2025.01 ~ 2025.06_
 - SSAFY 13기 Java Backend
   
 _2023.09 ~ 2024.08_
-- Android Developer of [(주)쭉]([https://www.fitapat.com/](https://www.linkedin.com/company/zooccorp/posts/?feedView=all&viewAsMember=true))
+- Android Developer of [(주)쭉](https://www.linkedin.com/company/zooccorp/posts/?feedView=all&viewAsMember=true)
 
 _2023.02 ~ 2023.11_
 - 우아한테크코스 5기 수료
